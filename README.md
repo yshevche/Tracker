@@ -1,3 +1,3 @@
 This project was done at CHLA under Dr. Mark Frey.
 
-By: Yevheniya Shevchenko, Charlotte Austin, Nooneh Khachatourian, Alice Martino and many more individuals
+By: Yevheniya Shevchenko, Charlotte Austin, Nooneh Khachatourian, Alice Martino 
